@@ -6,7 +6,7 @@ I’m a Ph.D. candidate at Shanghai Jiao Tong University. My research interests 
 
 🌱 I’m currently learning how to train a time series or spatio-temporal data LMs.
 
-👯 I’m looking to collaborate on spatio-temporal data mining, time series analysis, machine learning problems with missing scenarios.
+👯 I’m looking to collaborate on time series analysis, machine learning problems with missing data.
 
 ⚡ I'm working on spatio-temporal knowledge graph visualizations platform（GeoViz） to aid data analysis.
 
