@@ -8,8 +8,7 @@ I’m a Ph.D. candidate at Shanghai Jiao Tong University. My research interests 
 
 👯 I’m looking to collaborate on time series analysis, machine learning problems with missing data.
 
-⚡ I'm working on spatio-temporal knowledge graph visualizations platform（GeoViz） to aid data analysis.
+⚡ I'm working on spatio-temporal knowledge graph visualizations platform（[GeoViz](https://mdkg.acemap.cn/#/index)） to aid data analysis.
 
 📫 How to reach me: jeremychou28@gmail.com
-
 
