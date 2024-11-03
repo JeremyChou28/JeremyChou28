@@ -9,4 +9,4 @@ I’m a Ph.D. candidate at Shanghai Jiao Tong University. My research interests 
 
 👯 I am looking for collaborations and am also open to interested undergraduate interns. Please feel free to contact me!
 
-📫 How to reach me: jeremychou28@gmail.com
+📫 How to contact me: jeremychou28@gmail.com
