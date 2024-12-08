@@ -1,3 +1,9 @@
+<!--
+ * @Description: 
+ * @Author: Jianping Zhou
+ * @Email: jianpingzhou0927@gmail.com
+ * @Date: 2024-08-16 17:10:51
+-->
 ## Hello, I’m Jianping Zhou! 👋
 
 🚀 **About Me**
@@ -5,7 +11,7 @@ I’m a Ph.D. candidate at Shanghai Jiao Tong University. My research interests 
 
 🔭 I’m currently working on **missing problems** in spatio-temporal data and multivariate time series. What's more, I'm trying to use LLMs to solve time series and spatio-temporal data mining problems and contribute to the development of **multimodal foundation models**.
 
-🌱 I am currently collaborating with researchers in **Geoscience** to explore the application of AI in cross-disciplinary research.
+🌱 I am currently collaborating with researchers in **Environmental Science** to explore the application of AI in the research topic **Emerging Contaminants**.
 
 👯 I am looking for collaborations and am also open to interested undergraduate interns. Please feel free to contact me!
 
